@@ -1,3 +1,4 @@
+![Novalayz](https://github.com/Novalayz/Novalayz/blob/main/anime%20girl%20GIF.gif))
 <h1 align="center">Hi 👋, I'm Htet Lin Aung</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
